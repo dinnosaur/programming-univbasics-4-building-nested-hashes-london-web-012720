@@ -32,7 +32,7 @@ def monopoly_with_third_tier
     :one => 12, :two => 2, :three => 35, :four => 54 
      },
      :names => {:road1 => "nursery", :road2 => "abercorn",:road3 => "welbeck", :road4 => "random" }
-     :one_piece_owned => { 
+     :one_piece_owned => 6
       }}
 end
 
