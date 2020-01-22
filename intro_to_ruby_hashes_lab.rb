@@ -31,7 +31,8 @@ def monopoly_with_third_tier
     :rent_in_dollars => {
     :one => 12, :two => 2, :three => 35, :four => 54 
      },
-     :names => 4
+     :names => ["road1", "road2","road3", "road4"]
+     }
       
     }}
 end
