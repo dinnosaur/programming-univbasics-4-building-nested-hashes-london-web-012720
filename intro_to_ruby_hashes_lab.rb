@@ -31,7 +31,7 @@ def monopoly_with_third_tier
     :rent_in_dollars => {
     :one_piece_owned => 25, :two_pieces_owned => 50, :three_pieces_owned => 100, :four_pieces_owned => 200
      },
-     :names => {:reading_railroad => {}}, :pennsylvania_railroad => {}},:road3 => "welbeck", :road4 => "random" },
+     :names => {:reading_railroad => {}}, :pennsylvania_railroad => {}},:b_and_o_railroad => {}}, :road4 => "random" },
      
       }}
 end
