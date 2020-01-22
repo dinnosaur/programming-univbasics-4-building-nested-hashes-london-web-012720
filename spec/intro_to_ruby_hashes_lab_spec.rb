@@ -104,7 +104,7 @@ describe "We can create complex, nested Hashes by implementing four methods:" do
     end
 
     it "sets the 1st key of the :shortline_railroad hash to a string, 'mortgage_value', whose value is also a string, '$800'" do
-      expect(monopoly_with_fourth_tier[:railroads][:names][:shortline_railroad]["mortgage_value"]).to eq("$800")
+      expect(monopoly_with_fourth_tier[:railroads][:names][:b_and_o_railroad["mortgage_value"]).to eq("$800")
     end
   end
 end
