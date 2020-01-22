@@ -29,7 +29,7 @@ def monopoly_with_third_tier
     
     :pieces => 4,
     :rent_in_dollars => {
-    :one_piece_owned => 25, :two => 2, :three => 35, :four => 54 
+    :one_piece_owned => 25, :two_piece_owned => 2, :three_piece_owned => 35, :four_piece_owned => 54 
      },
      :names => {:road1 => "nursery", :road2 => "abercorn",:road3 => "welbeck", :road4 => "random" },
      
